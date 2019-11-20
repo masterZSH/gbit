@@ -1,0 +1,17 @@
+{
+  "name": "gbit",
+  "version": "1.0.2",
+  "description": " This package is find the value of 1 in the binary representation of an integer number",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/masterZSH/gbit"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bit"
+  ],
+  "author": "zsh",
+  "license": "ISC"
+}
