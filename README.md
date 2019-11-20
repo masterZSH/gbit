@@ -1,3 +1,6 @@
+![build](https://travis-ci.org/masterZSH/gbit.svg?branch=master)
+
+
 ## Instruction
 
  This package is find the value of 1 in the binary representation of an integer number

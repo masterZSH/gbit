@@ -1,6 +1,6 @@
 {
   "name": "gbit",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": " This package is find the value of 1 in the binary representation of an integer number",
   "main": "index.js",
   "repository": {
